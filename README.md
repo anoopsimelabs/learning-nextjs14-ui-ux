@@ -1,3 +1,14 @@
+
+## Learned from the YouTube video 
+- [Create a modern and fully responsive UI/UX website with Next.js 14 and Tailwind](https://youtu.be/pQ7tm_7S_Us?si=d7cI95XGjFdQJGTO). 
+## Figma to Code 
+- [Figma Reference](https://www.figma.com/file/9Wpvgz4EqQRRVCYi0cMJ74/Untitled?type=design&node-id=0-1&mode=design)
+
+#
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
